@@ -52,7 +52,15 @@
     //注册百度云推送
     [self baiduPushWithLanchOptication:launchOptions];
     [self.window makeKeyAndVisible];
-    
+    NSLog(@"fdhsgfjsdf");
+    NSLog(@"fdhsgfjsdf");
+
+    NSLog(@"fdhsgfjsdf");
+    NSLog(@"fdhsgfjsdf");
+    NSLog(@"fdhsgfjsdf");
+    NSLog(@"fdhsgfjsdf");
+    NSLog(@"fdhsgfjsdf");
+
     return YES;
 }
 
