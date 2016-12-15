@@ -60,6 +60,7 @@
     NSLog(@"fdhsgfjsdf");
     NSLog(@"fdhsgfjsdf");
     NSLog(@"fdhsgfjsdf");
+    Nslog(@"483743274");
 
     return YES;
 }
