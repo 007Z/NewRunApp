@@ -1,0 +1,25 @@
+//
+//  RunPrefixHeader.pch
+//  NewRunApp
+//
+//  Created by 赵玖录 on 16/9/27.
+//  Copyright © 2016年 赵玖录. All rights reserved.
+//
+
+#ifndef RunPrefixHeader_pch
+#define RunPrefixHeader_pch
+
+#import "RunContents.h"
+#import "RunCateGory.h"
+#import "GolbalManager.h"
+#import "RunApi.h"
+#import "YQResponsive.h"
+#import "RunComment.h"
+#import "RunAlert.h"
+#import "UIImageView+WebCache.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* RunPrefixHeader_pch */
